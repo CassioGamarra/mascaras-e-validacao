@@ -1,2 +1,2 @@
-# mascaras-e-validacao
+# Máscaras & Validação
 Máscaras e Validação de campos em JavaScript
